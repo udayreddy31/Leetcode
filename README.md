@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/udayreddy31/Leetcode/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/udayreddy31/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2296-design-a-text-editor](https://github.com/udayreddy31/Leetcode/tree/master/2296-design-a-text-editor) |
 ## Matrix
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/udayreddy31/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/udayreddy31/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/udayreddy31/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2296-design-a-text-editor](https://github.com/udayreddy31/Leetcode/tree/master/2296-design-a-text-editor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/udayreddy31/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/udayreddy31/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/udayreddy31/Leetcode/tree/master/0682-baseball-game) |
+| [2296-design-a-text-editor](https://github.com/udayreddy31/Leetcode/tree/master/2296-design-a-text-editor) |
 ## Recursion
 |  |
 | ------- |
@@ -51,4 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/udayreddy31/Leetcode/tree/master/0155-min-stack) |
+| [2296-design-a-text-editor](https://github.com/udayreddy31/Leetcode/tree/master/2296-design-a-text-editor) |
+## String
+|  |
+| ------- |
+| [2296-design-a-text-editor](https://github.com/udayreddy31/Leetcode/tree/master/2296-design-a-text-editor) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [2296-design-a-text-editor](https://github.com/udayreddy31/Leetcode/tree/master/2296-design-a-text-editor) |
 <!---LeetCode Topics End-->
