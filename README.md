@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/udayreddy31/Leetcode/tree/master/0682-baseball-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/udayreddy31/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/udayreddy31/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/udayreddy31/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/udayreddy31/Leetcode/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/udayreddy31/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Matrix
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/udayreddy31/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/udayreddy31/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/udayreddy31/Leetcode/tree/master/0682-baseball-game) |
 ## Recursion
 |  |
 | ------- |
