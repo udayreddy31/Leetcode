@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2119-a-number-after-a-double-reversal](https://github.com/udayreddy31/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [3870-count-commas-in-range](https://github.com/udayreddy31/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
 | ------- |
