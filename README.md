@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/udayreddy31/Leetcode/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/udayreddy31/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [2296-design-a-text-editor](https://github.com/udayreddy31/Leetcode/tree/master/2296-design-a-text-editor) |
 ## String
 |  |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2296-design-a-text-editor](https://github.com/udayreddy31/Leetcode/tree/master/2296-design-a-text-editor) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/udayreddy31/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/udayreddy31/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
