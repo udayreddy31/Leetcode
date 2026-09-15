@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/udayreddy31/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/udayreddy31/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/udayreddy31/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2073-time-needed-to-buy-tickets](https://github.com/udayreddy31/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/udayreddy31/Leetcode/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/udayreddy31/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2073-time-needed-to-buy-tickets](https://github.com/udayreddy31/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2296-design-a-text-editor](https://github.com/udayreddy31/Leetcode/tree/master/2296-design-a-text-editor) |
 ## Matrix
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/udayreddy31/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/udayreddy31/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
