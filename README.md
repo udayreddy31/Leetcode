@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/udayreddy31/Leetcode/tree/master/0169-majority-element) |
 | [0682-baseball-game](https://github.com/udayreddy31/Leetcode/tree/master/0682-baseball-game) |
+| [0912-sort-an-array](https://github.com/udayreddy31/Leetcode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/udayreddy31/Leetcode/tree/master/0932-beautiful-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/udayreddy31/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/udayreddy31/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -102,11 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/udayreddy31/Leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/udayreddy31/Leetcode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/udayreddy31/Leetcode/tree/master/0932-beautiful-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/udayreddy31/Leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/udayreddy31/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -115,4 +118,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/udayreddy31/Leetcode/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/udayreddy31/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/udayreddy31/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/udayreddy31/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/udayreddy31/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/udayreddy31/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
