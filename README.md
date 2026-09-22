@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0932-beautiful-array](https://github.com/udayreddy31/Leetcode/tree/master/0932-beautiful-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/udayreddy31/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3525-find-x-value-of-array-ii](https://github.com/udayreddy31/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/udayreddy31/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/udayreddy31/Leetcode/tree/master/0169-majority-element) |
 | [0682-baseball-game](https://github.com/udayreddy31/Leetcode/tree/master/0682-baseball-game) |
+| [0932-beautiful-array](https://github.com/udayreddy31/Leetcode/tree/master/0932-beautiful-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/udayreddy31/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/udayreddy31/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/udayreddy31/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/udayreddy31/Leetcode/tree/master/0169-majority-element) |
+| [0932-beautiful-array](https://github.com/udayreddy31/Leetcode/tree/master/0932-beautiful-array) |
 ## Sorting
 |  |
 | ------- |
