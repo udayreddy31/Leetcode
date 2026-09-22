@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/udayreddy31/Leetcode/tree/master/0169-majority-element) |
 | [0682-baseball-game](https://github.com/udayreddy31/Leetcode/tree/master/0682-baseball-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/udayreddy31/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/udayreddy31/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -91,4 +92,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/udayreddy31/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/udayreddy31/Leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/udayreddy31/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/udayreddy31/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/udayreddy31/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/udayreddy31/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
