@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2119-a-number-after-a-double-reversal](https://github.com/udayreddy31/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [3525-find-x-value-of-array-ii](https://github.com/udayreddy31/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/udayreddy31/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/udayreddy31/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/udayreddy31/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/udayreddy31/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3525-find-x-value-of-array-ii](https://github.com/udayreddy31/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/udayreddy31/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/udayreddy31/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
