@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/udayreddy31/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/udayreddy31/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3525-find-x-value-of-array-ii](https://github.com/udayreddy31/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/udayreddy31/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Simulation
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/udayreddy31/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/udayreddy31/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/udayreddy31/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Segment Tree
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/udayreddy31/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/udayreddy31/Leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/udayreddy31/Leetcode/tree/master/0912-sort-an-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/udayreddy31/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
